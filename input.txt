@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<class>
+   <patient>
+       <identifier>150432-5596</identifier>
+       <firstname>John</firstname>
+       <lastname>Smith</lastname>
+       <phone>(03) 123 4567</phone>
+       <gender>Male</gender>
+   </patient>
+   <patient>
+       <identifier>58679-9947</identifier>
+       <firstname>Sarah</firstname>
+       <lastname>Jones</lastname>
+       <phone>(03) 543 987</phone>
+       <gender>Female</gender>
+   </patient>
+   <patient>
+       <identifier>57648-9293</identifier>
+       <firstname>Mary</firstname>
+       <lastname>Lorenz</lastname>
+       <phone>(03) 984 897</phone>
+       <gender>Female</gender>
+   </patient>
+   <patient>
+       <identifier>010170-1110</identifier>
+       <firstname>Pekka</firstname>
+       <lastname>Potilas</lastname>
+       <phone>(03) 687 098</phone>
+       <gender>Male</gender>
+   </patient>
+   <patient>
+       <identifier>40396-9612</identifier>
+       <firstname>Matt</firstname>
+       <lastname>Muro</lastname>
+       <phone>(03) 687 098</phone>
+       <gender>Male</gender>
+   </patient>
+</class>
